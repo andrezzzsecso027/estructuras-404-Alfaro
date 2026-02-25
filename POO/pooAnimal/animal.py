@@ -6,6 +6,6 @@ class animal:
         self.nombre=nombre
     def getNombre(self):
         return self.nombre    
-obj=animal("soso")
-obj.setNombre(("jijiaj"))    
-print(obj.getNombre())
+#obj=animal("soso")
+#obj.setNombre(("jijiaj"))    
+#print(obj.getNombre())
