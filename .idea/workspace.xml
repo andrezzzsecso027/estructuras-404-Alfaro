@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7328dcf7-2a55-45dc-ac66-17578fc661e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Estructura404.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooAnimal/Fabric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooAnimal/Felinaaa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooAnimal/ZOO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooAnimal/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/Recursividad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/hola.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaDoble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/Felinaaa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/Funcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooAnimal/Funcion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooAnimal/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaDobleClase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaIntroClase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaSimpleClasee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/Recursividad.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/Recursividad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Recursividad.executor": "Run",
-    "Python.listaDoble.executor": "Run",
-    "Python.listaSimple.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Recursividad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listaDoble.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listaDobleClase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listaSimple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listaSimpleClase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listaSimpleClasee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Recursividad">
+}</component>
+  <component name="RunManager" selected="Python.listaDobleClase">
     <configuration name="Recursividad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estructura404" />
       <option name="ENV_FILES" value="" />
@@ -84,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listaDoble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="listaDobleClase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estructura404" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listaDoble.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listaDobleClase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listaSimple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="listaIntroClase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estructura404" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +111,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" />
+      <option name="SCRIPT_NAME" value="C:\Estructura404\POO\pooLIsta\listaIntroClase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listaSimpleClasee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estructura404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/pooLIsta" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listaSimpleClasee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estructura404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/pooLIsta" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,9 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listaDobleClase" />
         <item itemvalue="Python.Recursividad" />
-        <item itemvalue="Python.listaDoble" />
-        <item itemvalue="Python.listaSimple" />
+        <item itemvalue="Python.listaSimpleClasee" />
+        <item itemvalue="Python.listaIntroClase" />
+        <item itemvalue="Python.listas" />
       </list>
     </recent_temporary>
   </component>
@@ -158,8 +196,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/POO/pooLIsta/Recursividad.py</url>
-          <line>10</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/POO/pooLIsta/listaSimpleClasee.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

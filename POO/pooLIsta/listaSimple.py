@@ -1,11 +1,10 @@
 class Nodo:
     def __init__(self, dato):
-        self.dato = dato      # Información del nodo
-        self.next = None      # Referencia al siguiente nodo
+        self.dato = dato
 
 class ListaSimple:
     def __init__(self):
-        self.head = None  # Primer nodo de la lista
+        self.head = None
 
     def insertar(self, dato):
         nuevo = Nodo(dato)
