@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7328dcf7-2a55-45dc-ac66-17578fc661e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaDobleClase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaIntroClase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/pooLIsta/listaSimpleClasee.py" afterDir="false" />
+    <list default="true" id="7328dcf7-2a55-45dc-ac66-17578fc661e4" name="Changes" comment="cambios en el codigo">
+      <change afterPath="$PROJECT_DIR$/POO/ProyectoEntregar/ListaHorarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/ProyectoEntregar/ListaTurnos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/ProyectoEntregar/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/ProyectoEntregar/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/ProyectoEntregar/Usuario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/Recursividad.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/Recursividad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/listaSimple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/pooLIsta/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/pooLIsta/listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/app.py" afterDir="false" />
     </list>
+    <list id="7619b9ad-c659-4d6d-abb4-d72b9d3f9eed" name="Changes by JUANESTC" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +40,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainProyecto.executor&quot;: &quot;Run&quot;,
     &quot;Python.Recursividad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.listaDoble.executor&quot;: &quot;Run&quot;,
     &quot;Python.listaDobleClase.executor&quot;: &quot;Run&quot;,
     &quot;Python.listaSimple.executor&quot;: &quot;Run&quot;,
@@ -53,7 +57,51 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.listaDobleClase">
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estructura404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/ProyectoEntregar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Estructura404\POO\ProyectoEntregar\Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estructura404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/ProyectoEntregar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Estructura404\POO\ProyectoEntregar\Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Recursividad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estructura404" />
       <option name="ENV_FILES" value="" />
@@ -98,28 +146,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listaIntroClase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura404" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/pooLIsta" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Estructura404\POO\pooLIsta\listaIntroClase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="listaSimpleClasee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estructura404" />
       <option name="ENV_FILES" value="" />
@@ -142,35 +168,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura404" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/pooLIsta" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/pooLIsta/listas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Main" />
         <item itemvalue="Python.listaDobleClase" />
         <item itemvalue="Python.Recursividad" />
         <item itemvalue="Python.listaSimpleClasee" />
-        <item itemvalue="Python.listaIntroClase" />
-        <item itemvalue="Python.listas" />
       </list>
     </recent_temporary>
   </component>
@@ -189,16 +193,24 @@
       <option name="presentableId" value="Default" />
       <updated>1771632992646</updated>
     </task>
+    <task id="LOCAL-00001" summary="cambios en el codigo">
+      <option name="closed" value="true" />
+      <created>1772142138199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772142138199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambios en el codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios en el codigo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/POO/pooLIsta/Recursividad.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/POO/pooLIsta/listaSimpleClasee.py</url>
           <line>21</line>
