@@ -14,7 +14,7 @@ class SistemaTransito:
 
     def inicializar_horarios(self):
 
-        horarios = [9, 10, 11, 12, 13, 14, 15, 16]
+        horarios = [9]
 
         for hora in horarios:
             self.horarios.agregar_horario(hora)
